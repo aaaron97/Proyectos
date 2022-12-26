@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650401090690",
+    "project_id": "polleria2",
+    "storage_bucket": "polleria2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650401090690:android:f3b39b396d36536004789b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_6_firetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650401090690-o8frqu65rde2ii8c2al5gcbdtfnai7c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cZOWn0h6qScYjwc6N8Wd0SdFKmXpbrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650401090690-o8frqu65rde2ii8c2al5gcbdtfnai7c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
