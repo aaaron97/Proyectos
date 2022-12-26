@@ -7,6 +7,8 @@ import 'package:flutter_application_6_firetask/pages/paginaUser.dart';
 import 'package:flutter_application_6_firetask/screens/login_screen.dart';
 import 'package:flutter_application_6_firetask/screens/registration_screen.dart';
 
+import '../comidas/pollo.dart';
+
 class HomePage extends StatefulWidget {
   HomePage({Key? key}) : super(key: key);
 
@@ -142,4 +144,3 @@ class PaginaHome extends StatelessWidget {
   }
 }
 
-}
